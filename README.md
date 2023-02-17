@@ -1,8 +1,8 @@
-# Transformer models papers explained
+# Explicación de artículos sobre modelos Transformer
 
 ### Index
 
-1. Transformer
+1. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 2. GPT (Generative Pre-trained Transformer)
 3. BERT (Bidirectional Encoder Representations from Transformers)
 4. RoBERTa (Robustly Optimized BERT Pretraining Approach)
