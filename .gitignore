@@ -19,7 +19,7 @@ venv.bak/
 # Jupyter book
 book/_build/
 book/features
-book/README.md
+book/index.md
 in-progress
 scraps
 Workbook-Solutions

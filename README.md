@@ -2,9 +2,9 @@
 
 ### Index
 
-1. [Attention Is All You Need]() ([paper](https://arxiv.org/abs/1706.03762))
-2. GPT (Generative Pre-trained Transformer) ([paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf))
-3. BERT (Bidirectional Encoder Representations from Transformers) ([paper](https://arxiv.org/abs/1810.04805))
+1. [Attention Is All You Need](https://recmera.github.io/transformer-models-explained/transformer.html) ([paper](https://arxiv.org/abs/1706.03762))
+2. [GPT (Generative Pre-trained Transformer)](https://recmera.github.io/transformer-models-explained/gtp.html) ([paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf))
+3. [BERT (Bidirectional Encoder Representations from Transformers)](https://recmera.github.io/transformer-models-explained/bert.html) ([paper](https://arxiv.org/abs/1810.04805))
 4. RoBERTa (Robustly Optimized BERT Pretraining Approach) ([paper](https://arxiv.org/abs/1907.11692))
 5. T5 (Text-to-Text Transfer Transformer) ([paper](https://arxiv.org/abs/1910.10683))
 6. XLNet (eXtreme MultiLingual Language Model) ([paper](https://arxiv.org/abs/1906.08237))

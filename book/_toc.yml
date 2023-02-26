@@ -1,12 +1,16 @@
 format: jb-book
-root: README
-options:
-  numbered: True
-  
+root: index
+
 parts:
-  - caption: Contenidos
+  - caption: index
+    numbered: True
     chapters:
-    - file: chapters/transformer 
-    - file: chapters/gtp
-    - file: chapters/bert
+    - file: transformer 
+    - file: gtp
+    - file: bert
+    - file: RoBERTa
+    - file: T5
+    - file: XLNet
+    - file: GShard
+    
 
